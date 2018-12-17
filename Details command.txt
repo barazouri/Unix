@@ -1,0 +1,9 @@
+command - details
+
+ex1:
+list-file - show all files in client
+upload-file <file name> - uploading the file on a server
+
+bonus:
+download-file <FileName> - download file from the server to the client.
+search <word> - search file in server by name.
